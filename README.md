@@ -20,7 +20,7 @@ npx kuldeep
 
 Curious about what awaits you? Here's a glimpse of the magic:
 
-![NPX Card Demo](https://github.com/)
+![image](https://github.com/kuldeep2040/npx-card/blob/main/demo.gif))
 
 *The actual experience is even more impressive when you run it yourself!*
 
